@@ -1,0 +1,6 @@
+comandos do git 
+
+mudar de pasta cd
+visitar pastar dir
+criar pastas/arquivos mkdir
+deletar pastas/arquivos rmdir pasta /S/Q
